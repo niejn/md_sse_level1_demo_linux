@@ -1,0 +1,8 @@
+#ifndef MD_SSE_LEVEL1_DEMO_FIXSSETYPE_HPP
+#define MD_SSE_LEVEL1_DEMO_FIXSSETYPE_HPP
+
+//field length def
+#define MD_STREAMID_LEN 8
+#define SEQ_NUM_LEN     8
+
+#endif //MD_SSE_LEVEL1_DEMO_FIXSSETYPE_HPP
